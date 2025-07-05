@@ -1,0 +1,11 @@
+body {
+  scroll-behavior: smooth;
+}
+#hero {
+  background: url('../images/hero-bg.jpg') center/cover no-repeat;
+}
+section h2 {
+  border-bottom: 3px solid #007bff;
+  display: inline-block;
+  padding-bottom: 0.3rem;
+}
